@@ -1,5 +1,7 @@
 This project demonstrates unexpected behavior for modal navigation using Prism.DryIoc.Maui v9.0.349-pre.
 
+Sample Video that shows project running available at https://github.com/tbaggett/PrismMauiModalNavTest/raw/main/PrismMauiModalNavigationTest.mp4
+
 The MauiProgram in the project defines the initial navigation with the following code:
 
     CreateWindow(navigationService => navigationService.CreateBuilder()
