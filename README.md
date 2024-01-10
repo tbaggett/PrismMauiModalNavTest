@@ -1,4 +1,4 @@
-This project demonstrates unexpected behavior for modal navigation using Prism.DryIoc.Maui v9.0.349-pre.
+This project demonstrates unexpected behavior for modal navigation using Prism.DryIoc.Maui v9.0.349-pre. Previously in Xamarin.Forms, Prism modal navigation appeared the same as XF page-based modal navigation.
 
 Sample Video that shows project running available at https://github.com/tbaggett/PrismMauiModalNavTest/raw/main/PrismMauiModalNavigationTest.mp4
 
